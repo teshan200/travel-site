@@ -302,6 +302,9 @@ a{
 .cont-oth li:not(:first-child){
 	margin-top: 20px;
 }
+.social a{
+	color: white;
+}
 
 @media (max-width: 600px){
 	.header_content{
